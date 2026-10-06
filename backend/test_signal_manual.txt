@@ -1,0 +1,14 @@
+﻿SIGNAL FAILURE PROCEDURE - STATION OPERATIONS MANUAL
+
+Section 4.2: Signal Failure Response
+
+When a signal failure is detected at any station, staff must follow this procedure:
+
+1. Immediately notify the central control room.
+2. Dispatch a technician to the affected signal within 15 minutes.
+3. If the failure occurs during peak hours, implement manual signaling with a qualified signalman to maintain reduced train flow.
+4. Trains should be slowed to 15 km/h when passing through the affected signal zone.
+5. If resolution exceeds 45 minutes, consider single-line working on the adjacent track.
+6. Document the incident including duration, number of affected trains, and resolution steps taken.
+
+Signal failures during peak hours typically require additional staffing and can cause delays propagating to 2-3 subsequent stations if not managed within 60 minutes.

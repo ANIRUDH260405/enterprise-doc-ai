@@ -1,10 +1,35 @@
+﻿# Python
 __pycache__/
 *.pyc
+backend/venv/
 venv/
 .env
+*.env
+
+# Node
+frontend/node_modules/
 node_modules/
-frontend/.env
+frontend/dist/
+
+# Storage & uploads
 backend/storage/*
 !backend/storage/.gitkeep
+
+# Railway dataset - large files, don't commit to git
+railway_dataset/
+
+# IDE
 .vscode/
 .idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python cache in alembic
+backend/alembic/__pycache__/
+backend/alembic/versions/__pycache__/
+
+# Test artifacts
+.pytest_cache/
+backend/.pytest_cache/
